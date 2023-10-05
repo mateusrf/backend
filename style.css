@@ -76,3 +76,7 @@ body {
     width: 100%;
   }
   
+  .content p {
+    font-size: 15px;
+    margin: 0 40px;
+  }
